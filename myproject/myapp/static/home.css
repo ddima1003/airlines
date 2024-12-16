@@ -1,0 +1,58 @@
+.main-fon{
+    position:absolute;
+    width:1535px;
+    height:65px;
+    background-color:#002699;
+    top:0px;
+    left:0px;
+    }
+
+
+.hotels{
+    position:absolute;
+    top:13px;
+    right:40px;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;
+    font-size:30px;
+    text-decoration:none;
+    font-weight:550;
+    color:white
+}
+
+.help-centre{
+    position:absolute;
+    top:8.5px;
+    right:150px;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;
+    font-size:30px;
+    text-decoration:none;
+    font-weight:550;
+    color:white;
+    }
+
+.sign-in{
+    position:absolute;
+    top:8.5px;
+    right:150px;
+    font-family:"PT Sans", Calibri, Tahoma, sans-serif;
+    font-size:30px;
+    text-decoration:none;
+    font-weight:550;
+    color:white;
+    }
+
+.stick1{
+    position:absolute;
+    top:-9px;
+    right:140px;
+    font-size:30px;
+    color:white;
+    }
+
+.stick2{
+    position:absolute;
+    top:-1px;
+    right:120px;
+    font-size:20px;
+    color:white;
+    }
